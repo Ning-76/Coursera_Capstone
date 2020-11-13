@@ -1,6 +1,0 @@
-Data
-The data I used in the project is listed as below:
-1.	Table of postal codes of Canada, Wikipedia page, https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M.
-2.	Use the Geocoder package or the csv file to get the geographical coordinates of the neighborhoods. 
-3.	Foursquare location data: 
-According to the geographical coordinates, we can find the venues info around. 
